@@ -6,5 +6,4 @@ EDA data using python
 
 
 used python Jupyter Notebook to work as DATA analysis 
-hjjhjjhbjkjbhbhhjjh
-bbbb
+
